@@ -1,0 +1,17 @@
+
+docker build .
+docker build -t appname:tagname
+docker ps -a
+docker images
+docker run -p 4000:80
+docker rmi appname:tagname
+docker rmi -f containerid
+docker kill 
+docker stop appname:tagname
+docker start appname:tagname
+docker logs
+docker exec -it appname:tagname /bin/bash
+docker pull 
+docker tagname username/projectname:appname
+docker push username/remotedockerfolder:appname
+
