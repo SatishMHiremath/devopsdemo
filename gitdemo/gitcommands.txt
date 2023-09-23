@@ -10,4 +10,4 @@ git reset --hard
 git revert -f commitid
 git cherry-pick branchname
 git checkout branchname
-
+git rebase commitid
