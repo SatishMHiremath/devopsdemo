@@ -1,3 +1,22 @@
+Linux commands:
+--------------
+pwd - present working directory
+mkdir directoryname
+rmdir directoryname
+cd - change directory
+rm
+cp filename new filename
+
+ls 
+ls -l
+chmod filename 
+touch filename.ext
+cat filename
+vi filename
+
+
+git commands:
+-----------
 git remote add origin remoterepourl
 git clone remote url
 git add .
