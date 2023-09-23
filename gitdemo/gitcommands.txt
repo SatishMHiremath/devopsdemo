@@ -1,0 +1,13 @@
+git remote add origin remoterepourl
+git clone remote url
+git add .
+git add filename.extension
+git commit -m "Commit message"
+git push -u
+git pull
+git merge branchname
+git reset --hard
+git revert -f commitid
+git cherry-pick branchname
+git checkout branchname
+
